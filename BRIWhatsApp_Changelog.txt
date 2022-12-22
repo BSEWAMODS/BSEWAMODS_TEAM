@@ -1,4 +1,4 @@
-{"version_code":222478003,"content":"
+{"version_code":222478002,"content":"
 <p>BRIWhatsApp Mini V5.00 Update</p>
 
 
